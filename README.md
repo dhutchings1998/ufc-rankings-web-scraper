@@ -28,6 +28,11 @@ API's/Libraries:
 - Twilio Sendgrid (for error reporting)
 - Pandas_gbq (connecting with Google BigQuery API)
 
+## Example Tweets from 1/25/22
+> Bantamweight rankings update: Pedro Munhoz moves up from 10th to 9th
+
+> Men's Pound-for-Pound rankings update: Stipe Miocic falls from 9th to 10th
+
 ## Future Plans
 - Twitter bot will reply to mentions with the ranking of a specific fighter. (Coming Spring 2022)
 
