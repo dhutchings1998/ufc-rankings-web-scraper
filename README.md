@@ -31,5 +31,8 @@ API's/Libraries:
 ## Future Plans
 - Twitter bot will reply to mentions with the ranking of a specific fighter. (Coming Spring 2022)
 
+## Areas for improvement
+- Move data cleaning functions to separate utils file, making pipelines.py more readable.
+
 ## Note
 I've only included the web scraping and pipeline files in this repository for security reasons. The full application is in a private repository.
